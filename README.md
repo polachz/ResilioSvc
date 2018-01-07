@@ -1,5 +1,5 @@
 # ResilioSvc
-PowerShell script to manage Resilio Sync Service on Windows Core Server or Workstations without Resilio setup
+PowerShell script to install and manage the **Resilio Sync Service** on Windows Core Server or Workstations without default Resilio setup. 
 
 This script install, remove or update the Resilio Sync Service on the Windows Core Server where default setup doesn't work, because is not possible to fill appropriate credentials of the account uder the service will run.
 
